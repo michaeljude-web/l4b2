@@ -6,7 +6,7 @@
 
 ![YouTube Thumbnail](https://img.youtube.com/vi/TXWZMFfu_Ug/maxresdefault.jpg)
 
-### 📺 [➤ Watch Full Demo on YouTube](https://youtu.be/TXWZMFfu_Ug?si=b4SAcBo_t0roovjJ)
+**📺 [➤ Watch Full Demo on YouTube](https://youtu.be/TXWZMFfu_Ug?si=pZsgPXvqHrmi60Em)**
 
 </div>
 
@@ -41,14 +41,6 @@
 - **Storage Required:** ~5 MB
 - **Permissions Required:**
   - Internet (for external URLs)
-
----
-
-## 🎬 Demo Video
-
-Watch the full demonstration and tutorial on YouTube:
-
-[![Watch Demo](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/TXWZMFfu_Ug?si=b4SAcBo_t0roovjJ)
 
 ---
 
