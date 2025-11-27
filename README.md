@@ -11,5 +11,5 @@ This guide shows how to pause Windows Updates by modifying the registry.
 5. Double-click the new value → Decimal → enter `50000` → OK
 6. Open **Settings → Windows Update** and select a Pause Updates date
 
-## Notes
-- The pause value (`50000`) allows pausing updates for a very long time
+> [!NOTE]
+> The pause value (`50000`) allows pausing updates for a very long time
