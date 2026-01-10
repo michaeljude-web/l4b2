@@ -1,0 +1,54 @@
+project/
+├── config/
+│   ├── database.php          # DB config
+│   ├── constants.php         # App constants
+│   └── config.php            # General settings
+│
+├── includes/
+│   ├── functions.php         # Reusable functions
+│   ├── session.php           # Session handling
+│   └── auth.php              # Authentication logic
+│
+├── admin/
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── users/
+│   ├── reports/
+│   └── settings/
+│
+├── staff/
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── tasks/
+│   └── profile/
+│
+├── assets/
+│   ├── css/
+│   │   ├── admin/
+│   │   │   └── style.css
+│   │   ├── staff/
+│   │   │   └── style.css
+│   │   └── shared/          # Shared styles
+│   │       └── common.css
+│   │
+│   ├── js/
+│   │   ├── admin/
+│   │   ├── staff/
+│   │   └── shared/          # Shared JS
+│   │       └── common.js
+│   │
+│   ├── images/
+│   └── vendor/
+│
+├── uploads/
+│   ├── profiles/
+│   ├── documents/
+│   └── .htaccess           # Security
+│
+├── api/                     # For AJAX requests
+│   ├── admin/
+│   └── staff/
+│
+├── .htaccess               # URL rewriting, security
+├── .gitignore              # Ignore sensitive files
+└── index.php               # Main landing page
