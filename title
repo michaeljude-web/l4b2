@@ -1,8 +1,38 @@
 SEAIT Anti Cheat Quiz: AI-Driven Adaptive Quiz System with Intelligent Anti-Cheating Detection for Improving College Learning and Assessment at South East Asian Institute of Technology.
+Quantitative:
 
 drivin - use ai to make decisions automatically 
-
 adaptive - the qiuz change depending on student performance.
+
+
+1. Suspicious Behavior Pattern Detection.
+Extremely fast answering time
+Sudden perfect score after previous low scores
+Identical answer pattern between students
+Multiple tab switching behavior
+Student answers 30 questions in 1 minute
+
+2. Adaptive Question Randomization
+AI:
+Shuffles question order
+Changes question difficulty
+Randomizes choices
+
+
+3. Instructor Question Generator
+Allows instructors to upload learning materials such as PDF, Word, PowerPoint, or text documents, and the system automatically analyzes the content using AI to generate quiz questions based on key concepts,
+definitions, and important topics extracted from the file. The generated questions may include multiple choice, true or false, identification, and situational types,
+which the instructor can review, edit, adjust the difficulty level, and save to the question bank before assigning them to students.
+
+
+
+
+
+
+
+
+
+
 
  FEATURES:
 1. Instructor Quiz Builder
